@@ -21,3 +21,12 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/.metadata/
+/.recommenders/
+/libraries/EclipseLink 2.4.2 - Juno/**
+.DS_Store
+/sockets/target/**
+/sockets/.project
+.classpath
+.prefs
+.settings
