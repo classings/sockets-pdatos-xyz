@@ -1,0 +1,18 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.banco</groupId>
+  <artifactId>banco-xy</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  
+  	<modules>
+  		<module>banco-xy-model</module>
+  		<module>banco-xy-service</module>
+  		<module>banco-xy-dao</module>
+  		<module>banco-xy-client</module>
+  		<module>banco-xy-server</module>
+  		<module>banco-xy-data</module>
+  		<module>banco-xy-connection</module>
+  		<module>banco-xy-integracion</module>
+  	</modules>
+</project>
