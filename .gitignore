@@ -30,3 +30,7 @@ hs_err_pid*
 .classpath
 .prefs
 .settings
+/**/META-INF/MANIFEST.MF
+/**/pom.properties
+/**/.project
+/**/target/classes/META-INF/**/pom.xml
